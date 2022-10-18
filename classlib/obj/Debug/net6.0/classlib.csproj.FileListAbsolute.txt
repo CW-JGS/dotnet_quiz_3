@@ -1,0 +1,12 @@
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/bin/Debug/net6.0/classlib.deps.json
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/bin/Debug/net6.0/classlib.dll
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/bin/Debug/net6.0/ref/classlib.dll
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/bin/Debug/net6.0/classlib.pdb
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.csproj.AssemblyReference.cache
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.GeneratedMSBuildEditorConfig.editorconfig
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.AssemblyInfoInputs.cache
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.AssemblyInfo.cs
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.csproj.CoreCompileInputs.cache
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.dll
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/ref/classlib.dll
+/home/frncm/projects/swin/dotnet_quiz_3/classlib/obj/Debug/net6.0/classlib.pdb

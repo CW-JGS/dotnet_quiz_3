@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAE+nEWjR7hodttub9m/WXBZomWb0QG1f1hptGeRnEhD/G2FXqBjkG9G/tGmcpP1peY+bqPHQAJF+gVufWNlDw==",
+  "success": true,
+  "projectFilePath": "/home/frncm/projects/swin/dotnet_quiz_3/console/console.csproj",
+  "expectedPackageFiles": [
+    "/home/frncm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
